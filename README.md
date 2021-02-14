@@ -2,6 +2,6 @@
 
 # Installing Commands
 
-**apt-get install python3
+-apt-get install python3
 
-apt-get install git
+-apt-get install git
