@@ -8,4 +8,12 @@
 
 - pip install urllib3
 
-- git clone 
+# Copy Paste Your Terminal 
+- git clone https://github.com/DarkHeaveN123/Admin-Panel2.0.git
+
+# Allow Permission This Tool
+- chmod +x *
+## Then Open Darkheaven Folder 
+## Run The Tool 
+
+
