@@ -1,5 +1,5 @@
 # Admin-Panel2.0
-`website login Page Finder `
+`Website login Page Finder `
 
 # Installing Commands
 
