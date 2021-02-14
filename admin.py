@@ -18,12 +18,12 @@ timebanner("███████╗█████╗  ██║     ██║ 
 timebanner("╚════██║██╔══╝  ██║     ██║   ██║██╔══██╗██║   ██║     ╚██╔╝ ╚════╝██╔══██║██║  ██║██║╚██╔╝██║██║██║╚██╗██║")
 timebanner("███████║███████╗╚██████╗╚██████╔╝██║  ██║██║   ██║      ██║        ██║  ██║██████╔╝██║ ╚═╝ ██║██║██║ ╚████║")
 timebanner("╚══════╝╚══════╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝   ╚═╝      ╚═╝        ╚═╝  ╚═╝╚═════╝ ╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝")                                                                                                           
-timebanner("Coded BY DARKHEAVEN ")
-timebanner("INSTGRAM:dark_h_e_a_v_e_n")
-timebanner("GITHUB:DarkHeaveN123")
-timebanner("TEAM:DARKHOLE")
+timebanner("[Coded BY DARKHEAVEN] ")
+timebanner("[INSTGRAM:dark_h_e_a_v_e_n]")
+timebanner("[GITHUB:DarkHeaveN123]")
+timebanner("[TEAM:DARKHOLE]")
 
-timebanner("HTTP y HTTPS [ http://www.darkheaven.com ]  [ https://www.example.com ] ")
+timebanner("HTTP y HTTPS [ http://www.darkheaven.com ]  [ https://www.darkhole.com ] ")
 
 url = input("\nWebsite : ")
 print("")
