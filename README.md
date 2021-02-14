@@ -10,7 +10,7 @@
 - pip install urllib3
 
 # Copy Paste Your Terminal 
-- git clone https://github.com/DarkHeaveN123/Admin-Panel2.0.git
+- git clone ` https://github.com/DarkHeaveN123/Admin-Panel2.0.git `
 
 # Allow Permission This Tool
 - chmod +x *
